@@ -1,0 +1,4 @@
+model,MAE ($),RMSE ($),R2
+Baseline (always the average price),59931.238,88270.854,-0.016
+Ridge regression,16499.599,25142.452,0.918
+Random forest,17188.494,29264.901,0.888
